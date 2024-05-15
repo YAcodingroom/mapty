@@ -7,7 +7,9 @@ User can see their workouts on a map.
 The datas save in the local storage.
 
 - Screenshot:
-  ![index page]()
+  ![index page](./mapty.png)
+
+- Live URL: https://yacodingroom.github.io/mapty/
 
 ## Built with
 
@@ -19,5 +21,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Author
 
-- The Ultimate React Course 2024: React, Redux & More by Jonas Schmedtmann
+- The Complete JavaScript Course 2024 by Jonas Schmedtmann
 - YAL
